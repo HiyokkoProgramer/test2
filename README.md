@@ -1,2 +1,2 @@
 # git-test
-gitのテスト
+gitのテストだよ
